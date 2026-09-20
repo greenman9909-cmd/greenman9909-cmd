@@ -32,6 +32,21 @@ I’m a **vibe coder and prompt crafter**. I make vibe coding apps and websites 
 
 I like anime, AI, media, realtime features, playful interfaces, and the whole process of turning a rough thought into something people can actually use.
 
+## Featured build — Owais Anime Stream
+
+<div align="center">
+
+<a href="https://owais-anime-stream.onrender.com/"><img src="https://img.shields.io/badge/▶%20OPEN%20LIVE%20APP-owais--anime--stream.onrender.com-f43f5e?style=for-the-badge" alt="Open Owais Anime Stream" /></a>
+<a href="https://github.com/greenman9909-cmd/owais-anime-stream"><img src="https://img.shields.io/badge/OPEN%20SOURCE-MIT-18181b?style=for-the-badge&logo=github" alt="Open-source Owais Anime Stream repository" /></a>
+
+<br /><br />
+
+**Owais Anime Stream** is my featured vibe-coded build: an artwork-led anime catalog and streaming app with benchmark cards, active-node metadata, HLS playback, watchlists, comments, accounts, and live WebSocket telemetry.
+
+`React` · `AI-assisted build` · `HLS` · `JWT` · `WebSockets` · `MIT open source`
+
+</div>
+
 ## Featured PC setup
 
 <div align="center">
