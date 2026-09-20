@@ -67,45 +67,65 @@ Anime discovery and streaming experience focused on a polished media-first inter
 
 <h2 align="center">✦ PC SETUP · HARDWARE LAB ✦</h2>
 
+<p align="center"><strong>THE VIBE-CODING COMMAND CENTER</strong><br /><sub>High-end desktop rig · dual-display studio · portable laptop lineup</sub></p>
+
 <div align="center">
-
-**Swipe horizontally on mobile or click a photo to view the full setup.**
-
 <table>
 <tr>
 <td><a href="https://raw.githubusercontent.com/greenman9909-cmd/PC-SETUP-Y-SPECS-/main/IMG_0592.jpg"><img src="https://raw.githubusercontent.com/greenman9909-cmd/PC-SETUP-Y-SPECS-/main/IMG_0592.jpg" width="330" alt="Featured PC setup photo 1" /></a></td>
 <td><a href="https://raw.githubusercontent.com/greenman9909-cmd/PC-SETUP-Y-SPECS-/main/IMG_0593.jpg"><img src="https://raw.githubusercontent.com/greenman9909-cmd/PC-SETUP-Y-SPECS-/main/IMG_0593.jpg" width="330" alt="Featured PC setup photo 2" /></a></td>
 </tr>
 </table>
-
-<sub>Featured setup showcase · [full photo/spec repository](https://github.com/greenman9909-cmd/PC-SETUP-Y-SPECS-)</sub>
-
+<sub>Tap either photo for the full-size view · <a href="https://github.com/greenman9909-cmd/PC-SETUP-Y-SPECS-">open the complete photo/spec repository</a></sub>
 </div>
 
-### `SETUP SPECS`
+<br />
 
-| Category | Hardware |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### `MAIN RIG`
+
+| Part | Specification |
 |---|---|
-| **Case** | ASUS ROG Hyperion GR701 |
-| **CPU** | AMD Ryzen 9 9950X3D |
-| **Mainboard** | ASUS ROG Hero X870E |
-| **GPU** | ASUS ROG Astral RTX 5090 OC |
-| **SSD** | Samsung 9100 Pro 4TB |
+| **Chassis** | ASUS ROG Hyperion GR701 |
+| **Processor** | AMD Ryzen 9 9950X3D |
+| **Graphics** | ASUS ROG Astral RTX 5090 OC |
+| **Motherboard** | ASUS ROG Hero X870E |
+| **Storage** | Samsung 9100 Pro · 4TB |
+| **Cooling** | ASUS ROG LC V3 · 360mm LCD AIO |
+| **Power** | ASUS ROG Thor V3 · 1200W OLED |
 | **Fans** | Corsair QX120 · 6 units |
-| **AIO** | ASUS ROG LC Version 3 · 360mm LCD |
-| **PSU** | ASUS ROG Thor Version 3 · 1200W · OLED screen |
-| **Display** | ASUS ROG XG27UCS · 4K IPS · 160Hz |
-| **Display 2** | ASUS ROG Strix OLED XG27AQDMG Gen 2 |
-| **Laptop 1** | [Lenovo Legion Pro 5](https://www.pccomponentes.com/portatil-lenovo-legion-pro-5-16irx10-16-intel-core-i9-14900hx-32gb-1tb-ssd-rtx-5070) |
-| **Laptop 2** | OMEN MAX · RTX 5080 |
-| **Keyboard** | ASUS ROG Azoth Wireless |
-| **Mouse** | ASUS ROG Gladius III AimPoint Wireless |
-| **Mousepad** | ASUS ROG Moonstone XXL ACE · black |
-| **Headset** | ASUS ROG Delta II Wireless |
-| **Controller** | Xbox Elite Controller 2 |
-| **Elgato** | Stream Deck Plus |
-| **Lighting** | Philips Hue Bar |
-| **Speakers** | Razer Nommo V2 |
+
+</td>
+<td width="50%" valign="top">
+
+### `DISPLAY + MOBILITY`
+
+| Device | Specification |
+|---|---|
+| **Primary display** | ASUS ROG XG27UCS · 4K IPS · 160Hz |
+| **Second display** | ASUS ROG Strix OLED XG27AQDMG Gen 2 |
+| **Laptop 01** | Lenovo Legion Pro 5 |
+| **Laptop 02** | OMEN MAX · RTX 5080 |
+
+<br />
+
+<a href="https://www.pccomponentes.com/portatil-lenovo-legion-pro-5-16irx10-16-intel-core-i9-14900hx-32gb-1tb-ssd-rtx-5070"><img src="https://img.shields.io/badge/LEGION%20PRO%205-SPECS-f43f5e?style=for-the-badge" alt="Lenovo Legion Pro 5 specs" /></a>
+
+</td>
+</tr>
+</table>
+
+### `PERIPHERALS + STUDIO`
+
+| Category | Hardware | Category | Hardware |
+|---|---|---|---|
+| **Keyboard** | ASUS ROG Azoth Wireless | **Mouse** | ASUS ROG Gladius III AimPoint Wireless |
+| **Mousepad** | ASUS ROG Moonstone XXL ACE · black | **Headset** | ASUS ROG Delta II Wireless |
+| **Controller** | Xbox Elite Controller 2 | **Control deck** | Elgato Stream Deck Plus |
+| **Lighting** | Philips Hue Bar | **Speakers** | Razer Nommo V2 |
 
 <h2 align="center">✦ AI TOOLKIT ✦</h2>
 
