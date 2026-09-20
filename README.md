@@ -176,6 +176,8 @@ I’m not trying to be a traditional programmer. I use AI tools, strong prompts,
 
 Anime streaming and discovery experience with a public live preview.
 
+<a href="https://yoru.fun/"><img src="https://raw.githubusercontent.com/greenman9909-cmd/greenman9909-cmd/main/assets/yoru-preview.png" width="100%" alt="Yoru live anime discovery preview" /></a>
+
 <a href="https://yoru.fun/"><img src="https://img.shields.io/badge/▶%20OPEN%20LIVE%20PREVIEW-yoru.fun-f43f5e?style=for-the-badge" alt="Open Yoru live preview" /></a>
 <a href="https://github.com/greenman9909-cmd/Yoru-"><img src="https://img.shields.io/badge/SOURCE-GitHub-18181b?style=for-the-badge&logo=github" alt="Yoru source" /></a>
 
