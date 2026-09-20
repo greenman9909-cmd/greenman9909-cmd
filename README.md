@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&weight=900&size=52&duration=1800&pause=600&color=F43F5E&center=true&vCenter=true&width=1200&height=105&lines=OWAIS+RAZA+SHAHEEN" alt="Owais Raza Shaheen animated neon name" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&weight=900&size=52&duration=1800&pause=600&color=F43F5E&center=true&vCenter=true&width=1200&height=105&repeat=false&lines=OWAIS+RAZA+SHAHEEN" alt="Owais Raza Shaheen animated neon name" />
 
 <img src="https://camo.githubusercontent.com/9ca0e6c3d555095a8a1ccc169270540442a53f7713840515b479c92fd1e29353/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d2f3f666f6e743d506f7070696e732673697a653d3435266475726174696f6e3d323030302670617573653d3130303026636f6c6f723d3443414635302663656e7465723d74727565267643656e7465723d747275652677696474683d31323030266865696768743d313830266c696e65733d50726f66657373696f6e616c2b6275672b63726561746f723b4374726c253242432b2545322538362539322b4374726c253242562b656e67696e6565723b39392e312532352b707572652b7370616768657474692b636f64653b43757272656e746c792b636f6f6b696e672b72616e646f6d2b70726f6a656374732e" width="100%" alt="Professional bug creator, Ctrl+C Ctrl+V engineer, pure spaghetti code, currently cooking random projects" />
 
@@ -34,35 +34,34 @@ I’m a **vibe coder and prompt crafter**. I make vibe coding apps and websites 
 
 I like anime, AI, media, realtime features, playful interfaces, and the whole process of turning a rough thought into something people can actually use.
 
-## Featured build — AnimeXOsource_Owais
+## Featured builds
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<a href="https://owais-anime-stream.onrender.com/"><img src="https://img.shields.io/badge/▶%20OPEN%20LIVE%20APP-AnimeXOsource_Owais-f43f5e?style=for-the-badge" alt="Open AnimeXOsource_Owais" /></a>
-<a href="https://github.com/greenman9909-cmd/owais-anime-stream"><img src="https://img.shields.io/badge/OPEN%20SOURCE-MIT-18181b?style=for-the-badge&logo=github" alt="Open-source AnimeXOsource_Owais repository" /></a>
+### AnimeXOsource_Owais
 
-<br /><br />
+Artwork-led anime catalog and streaming interface with live AniList metadata, watchlists, accounts, comments, HLS integration, and realtime telemetry.
 
-**AnimeXOsource_Owais** is my featured vibe-coded build: an artwork-led anime catalog and streaming app with benchmark cards, active-node metadata, HLS playback, watchlists, comments, accounts, and live WebSocket telemetry.
+`AI-assisted` `Anime` `HLS` `WebSockets`
 
-`React` · `AI-assisted build` · `HLS` · `JWT` · `WebSockets` · `MIT open source`
+[Live app](https://owais-anime-stream.onrender.com/) · [Source](https://github.com/greenman9909-cmd/owais-anime-stream)
 
-</div>
+</td>
+<td width="50%" valign="top">
 
-## Featured web — Yoru
+### Yoru
 
-<div align="center">
+Anime discovery and streaming experience focused on a polished media-first interface, browse flows, watchlists, account features, and community navigation.
 
-<a href="https://yoru.fun/"><img src="https://img.shields.io/badge/▶%20OPEN%20YORU.FUN-LIVE-f43f5e?style=for-the-badge" alt="Open Yoru live site" /></a>
-<a href="https://github.com/greenman9909-cmd/Yoru-"><img src="https://img.shields.io/badge/SOURCE-Yoru--on--GitHub-18181b?style=for-the-badge&logo=github" alt="Open Yoru repository" /></a>
+`AI-assisted` `Anime` `Discovery` `Streaming UX`
 
-<br /><br />
+[Live site](https://yoru.fun/) · [Source](https://github.com/greenman9909-cmd/Yoru-)
 
-**Yoru** is my flagship anime web experience: a live streaming and discovery site with a polished media-first interface, browse flows, watchlists, account features, and community navigation.
-
-`Live web app` · `Anime discovery` · `Streaming UX` · `Built with AI-assisted vibe coding`
-
-</div>
+</td>
+</tr>
+</table>
 
 ## Featured PC setup
 
