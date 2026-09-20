@@ -72,38 +72,77 @@ I’m not trying to be a traditional programmer. I use AI tools, strong prompts,
 
 </div>
 
-## Featured projects
+## Selected work
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### [Yoru](https://yoru.fun/)
 
-Anime streaming and discovery website with a live public preview. Browse the experience at [**yoru.fun →**](https://yoru.fun/) or inspect the project repository: [**Yoru- on GitHub**](https://github.com/greenman9909-cmd/Yoru-).
+<img src="https://img.shields.io/badge/ANIME%20DISCOVERY-LIVE-f43f5e?style=flat-square" alt="Anime discovery live" />
 
-[![Yoru preview](https://img.shields.io/badge/▶%20LIVE%20PREVIEW-yoru.fun-f43f5e?style=for-the-badge)](https://yoru.fun/)
+Anime streaming and discovery experience with a public live preview.
+
+<a href="https://yoru.fun/"><img src="https://img.shields.io/badge/▶%20OPEN%20LIVE%20PREVIEW-yoru.fun-f43f5e?style=for-the-badge" alt="Open Yoru live preview" /></a>
+<a href="https://github.com/greenman9909-cmd/Yoru-"><img src="https://img.shields.io/badge/SOURCE-GitHub-18181b?style=for-the-badge&logo=github" alt="Yoru source" /></a>
+
+</td>
+<td width="50%" valign="top">
 
 ### [Owais Anime Stream](https://owais-anime-stream.onrender.com/)
 
-A vibe-coded anime streaming website with search, HLS playback, accounts, watchlists, comments, and live cluster telemetry.
+<img src="https://img.shields.io/badge/STREAMING-DEPLOYED-8b5cf6?style=flat-square" alt="Streaming deployed" />
 
-[Live](https://owais-anime-stream.onrender.com/) · [Preview](https://5173-ixes4lkgoy2jf0cbs1he5-40319576.us1.manus.computer/) · [Source](https://github.com/greenman9909-cmd/owais-anime-stream)
+Vibe-coded streaming product with accounts, HLS playback, watchlists, comments, and telemetry.
+
+<a href="https://owais-anime-stream.onrender.com/"><img src="https://img.shields.io/badge/▶%20LIVE-Render-f43f5e?style=for-the-badge" alt="Open Owais Anime Stream" /></a>
+<a href="https://github.com/greenman9909-cmd/owais-anime-stream"><img src="https://img.shields.io/badge/SOURCE-GitHub-18181b?style=for-the-badge&logo=github" alt="Owais Anime Stream source" /></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### [Nova Streaming Finale](https://nova-streaming-finale.vercel.app/)
 
-Full-stack anime streaming platform with frontend, backend, API tooling, and Vercel deployment.
+<img src="https://img.shields.io/badge/FULL--STACK-VERCEL-111827?style=flat-square" alt="Full-stack Vercel project" />
 
-[Live](https://nova-streaming-finale.vercel.app/) · [Source](https://github.com/greenman9909-cmd/nova-streaming-finale)
+Anime streaming build with frontend, backend, API tooling, and a live deployment.
 
-### [Manga & Manhwa Scrapper Nova](https://manga-manwha-scrapper-nova.vercel.app/)
+<a href="https://nova-streaming-finale.vercel.app/"><img src="https://img.shields.io/badge/▶%20LIVE-Vercel-f43f5e?style=for-the-badge" alt="Open Nova Streaming Finale" /></a>
+<a href="https://github.com/greenman9909-cmd/nova-streaming-finale"><img src="https://img.shields.io/badge/SOURCE-GitHub-18181b?style=for-the-badge&logo=github" alt="Nova source" /></a>
 
-A deployed manga and manhwa downloader web application with client, server, and deployment setup.
+</td>
+<td width="50%" valign="top">
 
-[Live](https://manga-manwha-scrapper-nova.vercel.app/) · [Source](https://github.com/greenman9909-cmd/manga-manwha-scrapper-nova)
+### [Manga & Manhwa Scrapper](https://manga-manwha-scrapper-nova.vercel.app/)
 
-## GitHub stats
+<img src="https://img.shields.io/badge/MEDIA%20TOOL-LIVE-0ea5e9?style=flat-square" alt="Media tool live" />
+
+Downloader web app with client, server, and deployment setup.
+
+<a href="https://manga-manwha-scrapper-nova.vercel.app/"><img src="https://img.shields.io/badge/▶%20LIVE-Vercel-f43f5e?style=for-the-badge" alt="Open Manga and Manhwa Scrapper" /></a>
+<a href="https://github.com/greenman9909-cmd/manga-manwha-scrapper-nova"><img src="https://img.shields.io/badge/SOURCE-GitHub-18181b?style=for-the-badge&logo=github" alt="Manga scrapper source" /></a>
+
+</td>
+</tr>
+</table>
+
+## GitHub activity
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=greenman9909-cmd&show_icons=true&hide_border=true&bg_color=0d1117&title_color=f43f5e&icon_color=f43f5e&text_color=ffffff&rank_icon=github" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=greenman9909-cmd&layout=compact&hide_border=true&bg_color=0d1117&title_color=f43f5e&text_color=ffffff" alt="Top languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=greenman9909-cmd&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=f43f5e&icon_color=f43f5e&text_color=ffffff&rank_icon=github&custom_title=Build%20telemetry" height="170" alt="GitHub build telemetry" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=greenman9909-cmd&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=f43f5e&text_color=ffffff&custom_title=Languages%20in%20the%20mix" height="170" alt="Top languages" />
+
+<br />
+
+<img src="https://streak-stats.demolab.com?user=greenman9909-cmd&theme=dark&hide_border=true&background=0D1117&ring=F43F5E&fire=F43F5E&currStreakLabel=FFFFFF&sideLabels=FFFFFF" height="170" alt="GitHub contribution streak" />
+
+<br /><br />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=greenman9909-cmd&bg_color=0d1117&color=ffffff&line=f43f5e&point=ffffff&area=true&hide_border=true" width="95%" alt="GitHub activity graph" />
 
 </div>
 
