@@ -18,8 +18,6 @@
 
 **Vibe coder & prompt crafter** · I make AI-assisted apps and websites
 
-`18` · `English C1` · studying **DAM FP Superior** — not fully dedicated to it, just learning and building things I like
-
 `Student into PCs & laptops` · `Gaming laptop repair` · `Vibe coding setup enthusiast`
 
 <div align="center">
