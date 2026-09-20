@@ -20,9 +20,21 @@
 
 `18` · `English C1` · studying **DAM FP Superior** — not fully dedicated to it, just learning and building things I like
 
+`Student into PCs & laptops` · `Gaming laptop repair` · `Vibe coding setup enthusiast`
+
 <div align="center">
 
 [Website](https://yoru.fun/) · [GitHub](https://github.com/greenman9909-cmd) · [Live project](https://owais-anime-stream.onrender.com/)
+
+</div>
+
+<div align="center">
+
+<a href="https://raw.githubusercontent.com/greenman9909-cmd/PC-SETUP-Y-SPECS-/main/9840c13e-81b3-41ac-90ee-012b500a423e.jpg"><img src="https://raw.githubusercontent.com/greenman9909-cmd/PC-SETUP-Y-SPECS-/main/9840c13e-81b3-41ac-90ee-012b500a423e.jpg" width="620" alt="OMEN MAX laptop setup for vibe coding" /></a>
+
+<br />
+
+**Vibe coding setup · PC and laptop enthusiast · I can repair gaming laptops**
 
 </div>
 
