@@ -1,30 +1,45 @@
-# Hi, I'm Owais
+<div align="center">
 
-I build web apps, AI tools, and media experiences with React, APIs, and Vercel.
+# Owais Raza Shaheen
 
-## Featured projects
+### Full-stack builder · Anime UI systems · Realtime web experiences
 
-- [Yoru](https://yoru.fun/#/) — an anime streaming platform with sub/dub browsing, popular and top-anime discovery, watchlists, account/cloud-save flows, AniList import, and community navigation.
+[![GitHub](https://img.shields.io/badge/GitHub-greenman9909--cmd-111114?style=flat-square&logo=github)](https://github.com/greenman9909-cmd)
+[![Portfolio project](https://img.shields.io/badge/Featured-Owais%20Anime%20Stream-ef1723?style=flat-square)](https://github.com/greenman9909-cmd/owais-anime-stream)
 
-- [Manga & Manhwa Downloader](https://github.com/greenman9909-cmd/manga-manwha-scrapper-nova) — a deployed web application with client, server, and Vercel configuration.
-- [Nova Streaming Platform](https://github.com/greenman9909-cmd/nova-streaming-finale) — a full-stack streaming project with frontend, backend, API, and deployment documentation.
-- [Nova Web App](https://github.com/greenman9909-cmd/nova) — a streaming prototype with API, server, and Supabase integration.
+</div>
 
-## Focus
+> Building clean, fast interfaces with a little anime energy and a lot of attention to detail.
 
-- Full-stack web development
-- AI-assisted product experiences
-- API integration and deployment
+## Featured build
 
-## Find me
+### Owais Anime Stream
 
-- Yoru: [yoru.fun](https://yoru.fun) — an anime streaming platform.
+A dark, studio-inspired anime streaming platform with HLS playback, JWT accounts, watchlists, comments, and live WebSocket telemetry. The interface combines an editorial catalog with benchmark cards, technical metadata, and an operations console aesthetic.
 
-- GitHub: [@greenman9909-cmd](https://github.com/greenman9909-cmd)
+- React 19 + Vite
+- Express + SQLite + WebSocket
+- HLS.js playback and quality switching
+- Search, filters, watch history, and admin APIs
 
-## Open to collaboration
+[View the repository →](https://github.com/greenman9909-cmd/owais-anime-stream)
 
-I’m open to collaborating on Yoru’s product design, anime discovery experience, API integrations, watchlist/account features, performance, and community tooling.
+## Current focus
 
-- Live app: [yoru.fun](https://yoru.fun/#/)
-- Community: [Yoru Discord](https://discord.gg/6QDDwPfd6)
+- Crafting interfaces that feel intentional, calm, and production-ready.
+- Turning rough product ideas into complete full-stack systems.
+- Exploring realtime UX, media delivery, and developer tooling.
+
+## Tech I use
+
+`JavaScript` · `React` · `Node.js` · `Express` · `SQLite` · `WebSockets` · `Vite` · `Docker`
+
+<div align="center">
+
+```
+      /\\_/\\
+     ( o.o )   ship clean things
+      > ^ <
+```
+
+</div>
