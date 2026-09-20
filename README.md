@@ -50,10 +50,25 @@ I’m not trying to be a traditional programmer. I use AI tools, strong prompts,
 <a href="https://manus.im/"><img src="https://img.shields.io/badge/Manus-18181b?style=for-the-badge&logoColor=white" alt="Open Manus" /></a>
 <a href="https://www.cursor.com/downloads"><img src="https://img.shields.io/badge/Cursor-111827?style=for-the-badge&logoColor=white" alt="Download Cursor" /></a>
 <a href="https://antigravity.google/download/"><img src="https://img.shields.io/badge/Antigravity-f43f5e?style=for-the-badge&logo=google&logoColor=white" alt="Download Antigravity" /></a>
+<a href="https://gemini.google.com/"><img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Open Gemini" /></a>
+<a href="https://www.perplexity.ai/"><img src="https://img.shields.io/badge/Perplexity-111827?style=for-the-badge&logoColor=white" alt="Open Perplexity" /></a>
+<a href="https://grok.com/"><img src="https://img.shields.io/badge/Grok-000000?style=for-the-badge&logoColor=white" alt="Open Grok" /></a>
+<a href="https://github.com/features/copilot"><img src="https://img.shields.io/badge/Copilot-8957E5?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Copilot" /></a>
+<a href="https://v0.dev/"><img src="https://img.shields.io/badge/v0-000000?style=for-the-badge&logoColor=white" alt="v0" /></a>
+<a href="https://lovable.dev/"><img src="https://img.shields.io/badge/Lovable-FF5C83?style=for-the-badge&logoColor=white" alt="Lovable" /></a>
+<a href="https://bolt.new/"><img src="https://img.shields.io/badge/Bolt.new-101828?style=for-the-badge&logoColor=white" alt="Bolt.new" /></a>
+<a href="https://replit.com/"><img src="https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white" alt="Replit" /></a>
+<a href="https://windsurf.com/"><img src="https://img.shields.io/badge/Windsurf-0EA5E9?style=for-the-badge&logoColor=white" alt="Windsurf" /></a>
+<a href="https://huggingface.co/"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" /></a>
+<a href="https://elevenlabs.io/"><img src="https://img.shields.io/badge/ElevenLabs-111827?style=for-the-badge&logoColor=white" alt="ElevenLabs" /></a>
 
 <br /><br />
 
-`prompt crafting` · `AI brainstorming` · `vibe coding` · `visual iteration` · `AI-assisted building` · `shipping ideas`
+`Claude` · `DeepSeek` · `ChatGPT` · `Gemini` · `Grok` · `Perplexity` · `Cursor` · `Antigravity` · `Manus` · `Copilot` · `v0` · `Lovable` · `Bolt.new` · `Replit` · `Windsurf` · `Hugging Face` · `ElevenLabs`
+
+<br />
+
+`prompt crafting` · `AI brainstorming` · `agentic workflows` · `RAG` · `model playgrounds` · `image / voice AI` · `vibe coding` · `visual iteration` · `shipping ideas`
 
 </div>
 
