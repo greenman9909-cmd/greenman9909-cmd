@@ -36,6 +36,28 @@ I’m a **vibe coder and prompt crafter**. I make vibe coding apps and websites 
 
 I like anime, AI, media, realtime features, playful interfaces, and the whole process of turning a rough thought into something people can actually use.
 
+<h2 align="center">LATEST BUILD</h2>
+
+<table>
+<tr>
+<td width="100%" valign="top">
+
+### ⚡ [SPA-Ripper](https://github.com/greenman9909-cmd/spa-ripper)
+
+<img src="https://img.shields.io/badge/PYTHON-SPA%20TOOLKIT-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python SPA toolkit" />
+<img src="https://img.shields.io/badge/STATUS-LATEST%20BUILD-f43f5e?style=flat-square" alt="Latest build" />
+
+Lightweight toolkit for cloning modern SPA frontends and serving them locally with recursive lazy-chunk discovery, deep CSS asset extraction, SPA route fallback, and optional API reverse proxying.
+
+`Python` `SPA` `Vite / Webpack` `Dynamic chunks` `Reverse proxy`
+
+<a href="https://github.com/greenman9909-cmd/spa-ripper"><img src="https://img.shields.io/badge/SOURCE-GitHub-18181b?style=for-the-badge&logo=github" alt="SPA-Ripper source" /></a>
+<a href="https://github.com/greenman9909-cmd/spa-ripper#readme"><img src="https://img.shields.io/badge/READ-DOCS-00bfa6?style=for-the-badge" alt="SPA-Ripper documentation" /></a>
+
+</td>
+</tr>
+</table>
+
 <h2 align="center">FEATURED BUILDS</h2>
 
 <table>
