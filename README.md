@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=27&duration=3500&pause=700&color=F43F5E&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Owais+Raza+Shaheen;I'm+a+vibe+coder+%26+prompt+crafter;I+make+vibe+coding+apps+%26+websites" alt="Typing introduction" /></a>
+<img src="https://camo.githubusercontent.com/9ca0e6c3d555095a8a1ccc169270540442a53f7713840515b479c92fd1e29353/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d2f3f666f6e743d506f7070696e732673697a653d3435266475726174696f6e3d323030302670617573653d3130303026636f6c6f723d3443414635302663656e7465723d74727565267643656e7465723d747275652677696474683d31323030266865696768743d313830266c696e65733d50726f66657373696f6e616c2b6275672b63726561746f723b4374726c253242432b2545322538362539322b4374726c253242562b656e67696e6565723b39392e312532352b707572652b7370616768657474692b636f64653b43757272656e746c792b636f6f6b696e672b72616e646f6d2b70726f6a656374732e" width="100%" alt="Professional bug creator, Ctrl+C Ctrl+V engineer, pure spaghetti code, currently cooking random projects" />
 
 [![GitHub](https://img.shields.io/badge/GitHub-greenman9909--cmd-18181b?style=for-the-badge&logo=github)](https://github.com/greenman9909-cmd)
 [![Yoru live preview](https://img.shields.io/badge/LIVE%20PREVIEW-yoru.fun-f43f5e?style=for-the-badge)](https://yoru.fun/)
@@ -221,6 +221,10 @@ These cards pull from my **real public GitHub activity**: contributions, commits
 ## Support the builds
 
 If you enjoy the projects and want to support more vibe-coded apps, you can [support me on Ko-fi](https://ko-fi.com/yorusayano). It is completely optional.
+
+<div align="center">
+<a href="https://ko-fi.com/yorusayano"><img src="https://storage.ko-fi.com/cdn/kofi3.png?v=3" width="190" alt="Support me on Ko-fi" /></a>
+</div>
 
 ## Off-screen
 
