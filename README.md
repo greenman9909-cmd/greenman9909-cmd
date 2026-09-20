@@ -47,6 +47,21 @@ I like anime, AI, media, realtime features, playful interfaces, and the whole pr
 
 </div>
 
+## Featured web — Yoru
+
+<div align="center">
+
+<a href="https://yoru.fun/"><img src="https://img.shields.io/badge/▶%20OPEN%20YORU.FUN-LIVE-f43f5e?style=for-the-badge" alt="Open Yoru live site" /></a>
+<a href="https://github.com/greenman9909-cmd/Yoru-"><img src="https://img.shields.io/badge/SOURCE-Yoru--on--GitHub-18181b?style=for-the-badge&logo=github" alt="Open Yoru repository" /></a>
+
+<br /><br />
+
+**Yoru** is my flagship anime web experience: a live streaming and discovery site with a polished media-first interface, browse flows, watchlists, account features, and community navigation.
+
+`Live web app` · `Anime discovery` · `Streaming UX` · `Built with AI-assisted vibe coding`
+
+</div>
+
 ## Featured PC setup
 
 <div align="center">
