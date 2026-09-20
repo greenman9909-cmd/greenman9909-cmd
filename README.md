@@ -28,7 +28,7 @@
 
 </div>
 
-<h2 align="center">✦ ABOUT ME ✦</h2>
+<h2 align="center">ABOUT ME</h2>
 
 <p align="center"><strong>VIBE CODER · PROMPT CRAFTER · AI-BUILDER</strong></p>
 
@@ -36,13 +36,13 @@ I’m a **vibe coder and prompt crafter**. I make vibe coding apps and websites 
 
 I like anime, AI, media, realtime features, playful interfaces, and the whole process of turning a rough thought into something people can actually use.
 
-<h2 align="center">✦ FEATURED BUILDS ✦</h2>
+<h2 align="center">FEATURED BUILDS</h2>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### ◈ AnimeXOsource_Owais
+### AnimeXOsource_Owais
 
 Artwork-led anime catalog and streaming interface with live AniList metadata, watchlists, accounts, comments, HLS integration, and realtime telemetry.
 
@@ -53,7 +53,7 @@ Artwork-led anime catalog and streaming interface with live AniList metadata, wa
 </td>
 <td width="50%" valign="top">
 
-### ◈ Yoru
+### Yoru
 
 Anime discovery and streaming experience focused on a polished media-first interface, browse flows, watchlists, account features, and community navigation.
 
@@ -65,7 +65,7 @@ Anime discovery and streaming experience focused on a polished media-first inter
 </tr>
 </table>
 
-<h2 align="center">✦ PC SETUP · HARDWARE LAB ✦</h2>
+<h2 align="center">PC SETUP · HARDWARE LAB</h2>
 
 <p align="center"><strong>THE VIBE-CODING COMMAND CENTER</strong><br /><sub>High-end desktop rig · dual-display studio · portable laptop lineup</sub></p>
 
@@ -113,6 +113,7 @@ Anime discovery and streaming experience focused on a polished media-first inter
 <br />
 
 <a href="https://www.pccomponentes.com/portatil-lenovo-legion-pro-5-16irx10-16-intel-core-i9-14900hx-32gb-1tb-ssd-rtx-5070"><img src="https://img.shields.io/badge/LEGION%20PRO%205-SPECS-f43f5e?style=for-the-badge" alt="Lenovo Legion Pro 5 specs" /></a>
+<a href="https://www.hp.com/us-en/gaming-pc/laptops/2025-omen-max16-intel.html"><img src="https://img.shields.io/badge/OMEN%20MAX%2016-RTX%205080%20SPECS-111827?style=for-the-badge" alt="HP OMEN MAX 16 RTX 5080 specs" /></a>
 
 </td>
 </tr>
@@ -127,7 +128,7 @@ Anime discovery and streaming experience focused on a polished media-first inter
 | **Controller** | Xbox Elite Controller 2 | **Control deck** | Elgato Stream Deck Plus |
 | **Lighting** | Philips Hue Bar | **Speakers** | Razer Nommo V2 |
 
-<h2 align="center">✦ AI TOOLKIT ✦</h2>
+<h2 align="center">AI TOOLKIT</h2>
 
 <p align="center"><strong>THE TOOLS BEHIND MY VIBE-CODED BUILDS</strong></p>
 
@@ -163,7 +164,7 @@ I’m not trying to be a traditional programmer. I use AI tools, strong prompts,
 
 </div>
 
-<h2 align="center">✦ SELECTED WORK ✦</h2>
+<h2 align="center">SELECTED WORK</h2>
 
 <table>
 <tr>
@@ -220,7 +221,7 @@ Downloader web app with client, server, and deployment setup.
 </tr>
 </table>
 
-<h2 align="center">✦ GITHUB ACHIEVEMENT ROADMAP ✦</h2>
+<h2 align="center">GITHUB ACHIEVEMENT ROADMAP</h2>
 
 <p align="center"><strong>Badges I’m chasing through open-source building, collaboration, and shipping in public.</strong><br /><sub>Badge artwork and achievement guides from <a href="https://github.com/dawidolko/Github-Badges-Achievements">Github-Badges-Achievements</a> · These are goals, not claimed achievements.</sub></p>
 
@@ -232,7 +233,7 @@ Downloader web app with client, server, and deployment setup.
 <a href="https://github.com/dawidolko/Github-Badges-Achievements/blob/main/assets/steps/README.yolo.md"><img src="https://raw.githubusercontent.com/dawidolko/Github-Badges-Achievements/main/assets/badges/Yolo.png" width="130" alt="YOLO achievement goal" /></a>
 </div>
 
-<h2 align="center">✦ PUBLIC ACTIVITY ✦</h2>
+<h2 align="center">PUBLIC ACTIVITY</h2>
 
 <p align="center"><strong>Follow the work from GitHub itself.</strong><br /><sub>No fake counters, no broken stat cards, and no third-party dashboard pretending to be a source of truth.</sub></p>
 
