@@ -143,7 +143,7 @@ I’m not trying to be a traditional programmer. I use AI tools, strong prompts,
 
 </div>
 
-## Selected work
+<h2 align="center">✦ SELECTED WORK ✦</h2>
 
 <table>
 <tr>
@@ -200,7 +200,19 @@ Downloader web app with client, server, and deployment setup.
 </tr>
 </table>
 
-## GitHub activity — live data
+<h2 align="center">✦ GITHUB ACHIEVEMENT ROADMAP ✦</h2>
+
+<p align="center"><strong>Badges I’m chasing through open-source building, collaboration, and shipping in public.</strong><br /><sub>Badge artwork and achievement guides from <a href="https://github.com/dawidolko/Github-Badges-Achievements">Github-Badges-Achievements</a> · These are goals, not claimed achievements.</sub></p>
+
+<div align="center">
+<a href="https://github.com/dawidolko/Github-Badges-Achievements/blob/main/assets/steps/README.quickdraw.md"><img src="https://raw.githubusercontent.com/dawidolko/Github-Badges-Achievements/main/assets/badges/Quickdraw.png" width="130" alt="Quickdraw achievement goal" /></a>
+<a href="https://github.com/dawidolko/Github-Badges-Achievements/blob/main/assets/steps/README.pull-shark.md"><img src="https://raw.githubusercontent.com/dawidolko/Github-Badges-Achievements/main/assets/badges/PullShark.png" width="130" alt="Pull Shark achievement goal" /></a>
+<a href="https://github.com/dawidolko/Github-Badges-Achievements/blob/main/assets/steps/README.pair-extraordinaire.md"><img src="https://raw.githubusercontent.com/dawidolko/Github-Badges-Achievements/main/assets/badges/PairExtraordinaire.png" width="130" alt="Pair Extraordinaire achievement goal" /></a>
+<a href="https://github.com/dawidolko/Github-Badges-Achievements/blob/main/assets/steps/README.galaxy-brain.md"><img src="https://raw.githubusercontent.com/dawidolko/Github-Badges-Achievements/main/assets/badges/GalaxyBrain.png" width="130" alt="Galaxy Brain achievement goal" /></a>
+<a href="https://github.com/dawidolko/Github-Badges-Achievements/blob/main/assets/steps/README.yolo.md"><img src="https://raw.githubusercontent.com/dawidolko/Github-Badges-Achievements/main/assets/badges/Yolo.png" width="130" alt="YOLO achievement goal" /></a>
+</div>
+
+<h2 align="center">✦ GITHUB ACTIVITY · LIVE DATA ✦</h2>
 
 These cards pull from my **real public GitHub activity**: contributions, commits, pull requests, issues, repositories, languages, and contribution history.
 
