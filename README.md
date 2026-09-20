@@ -44,7 +44,6 @@ I like anime, AI, media, realtime features, playful interfaces, and the whole pr
 <tr>
 <td><a href="https://raw.githubusercontent.com/greenman9909-cmd/PC-SETUP-Y-SPECS-/main/IMG_0592.jpg"><img src="https://raw.githubusercontent.com/greenman9909-cmd/PC-SETUP-Y-SPECS-/main/IMG_0592.jpg" width="330" alt="Featured PC setup photo 1" /></a></td>
 <td><a href="https://raw.githubusercontent.com/greenman9909-cmd/PC-SETUP-Y-SPECS-/main/IMG_0593.jpg"><img src="https://raw.githubusercontent.com/greenman9909-cmd/PC-SETUP-Y-SPECS-/main/IMG_0593.jpg" width="330" alt="Featured PC setup photo 2" /></a></td>
-<td><a href="https://raw.githubusercontent.com/greenman9909-cmd/PC-SETUP-Y-SPECS-/main/9840c13e-81b3-41ac-90ee-012b500a423e.jpg"><img src="https://raw.githubusercontent.com/greenman9909-cmd/PC-SETUP-Y-SPECS-/main/9840c13e-81b3-41ac-90ee-012b500a423e.jpg" width="330" alt="OMEN MAX laptop photo" /></a></td>
 </tr>
 </table>
 
@@ -66,8 +65,8 @@ I like anime, AI, media, realtime features, playful interfaces, and the whole pr
 | PSU | ASUS ROG Thor Version 3 · 1200W · OLED screen |
 | Display | ASUS ROG XG27UCS · 4K IPS · 160Hz |
 | Display 2 | ASUS ROG Strix OLED XG27AQDMG Gen 2 |
-| Laptop pictured | OMEN MAX 16-ah0012ns · RTX 5080 |
-| Laptop linked | [Lenovo Legion Pro 5 16IRX10](https://www.pccomponentes.com/portatil-lenovo-legion-pro-5-16irx10-16-intel-core-i9-14900hx-32gb-1tb-ssd-rtx-5070) · Intel Core i9-14900HX · RTX 5070 · 32GB RAM · 1TB SSD |
+| Laptop 1 | [Lenovo Legion Pro 5](https://www.pccomponentes.com/portatil-lenovo-legion-pro-5-16irx10-16-intel-core-i9-14900hx-32gb-1tb-ssd-rtx-5070) |
+| Laptop 2 | OMEN MAX · RTX 5080 |
 | Keyboard | ASUS ROG Azoth Wireless |
 | Mouse | ASUS ROG Gladius III AimPoint Wireless |
 | Mousepad | ASUS ROG Moonstone XXL ACE · black |
