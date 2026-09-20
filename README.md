@@ -32,11 +32,45 @@ I’m a **vibe coder and prompt crafter**. I make vibe coding apps and websites 
 
 I like anime, AI, media, realtime features, playful interfaces, and the whole process of turning a rough thought into something people can actually use.
 
+## Featured PC setup
+
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/daria-stanilevici/daria-stanilevici/main/assets/about_daria.gif" alt="Terminal profile animation" width="760" />
+**Swipe horizontally on mobile or click either photo to view the full setup.**
+
+<table>
+<tr>
+<td><a href="https://raw.githubusercontent.com/greenman9909-cmd/PC-SETUP-Y-SPECS-/main/IMG_0592.jpg"><img src="https://raw.githubusercontent.com/greenman9909-cmd/PC-SETUP-Y-SPECS-/main/IMG_0592.jpg" width="420" alt="Featured PC setup photo 1" /></a></td>
+<td><a href="https://raw.githubusercontent.com/greenman9909-cmd/PC-SETUP-Y-SPECS-/main/IMG_0593.jpg"><img src="https://raw.githubusercontent.com/greenman9909-cmd/PC-SETUP-Y-SPECS-/main/IMG_0593.jpg" width="420" alt="Featured PC setup photo 2" /></a></td>
+</tr>
+</table>
+
+<sub>Featured setup showcase · [full photo/spec repository](https://github.com/greenman9909-cmd/PC-SETUP-Y-SPECS-)</sub>
 
 </div>
+
+### Setup specs
+
+| Category | Hardware |
+|---|---|
+| Case | ASUS ROG Hyperion GR701 |
+| CPU | AMD Ryzen 9 9950X3D |
+| Mainboard | ASUS ROG Hero X870E |
+| GPU | ASUS ROG Astral RTX 5090 OC |
+| SSD | Samsung 9100 Pro 4TB |
+| Fans | Corsair QX120 · 6 units |
+| AIO | ASUS ROG LC Version 3 · 360mm LCD |
+| PSU | ASUS ROG Thor Version 3 · 1200W · OLED screen |
+| Display | ASUS ROG XG27UCS · 4K IPS · 160Hz |
+| Display 2 | ASUS ROG Strix OLED XG27AQDMG Gen 2 |
+| Keyboard | ASUS ROG Azoth Wireless |
+| Mouse | ASUS ROG Gladius III AimPoint Wireless |
+| Mousepad | ASUS ROG Moonstone XXL ACE · black |
+| Headset | ASUS ROG Delta II Wireless |
+| Controller | Xbox Elite Controller 2 |
+| Elgato | Stream Deck Plus |
+| Lighting | Philips Hue Bar |
+| Speakers | Razer Nommo V2 |
 
 ## AI tools I use
 
