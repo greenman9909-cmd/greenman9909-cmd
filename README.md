@@ -6,7 +6,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-greenman9909--cmd-18181b?style=for-the-badge&logo=github)](https://github.com/greenman9909-cmd)
 [![Yoru live preview](https://img.shields.io/badge/LIVE%20PREVIEW-yoru.fun-f43f5e?style=for-the-badge)](https://yoru.fun/)
-[![Owais Anime Stream](https://img.shields.io/badge/LIVE-OWAIS%20ANIME%20STREAM-8b5cf6?style=for-the-badge)](https://owais-anime-stream.onrender.com/)
+[![AnimeXOsource_Owais](https://img.shields.io/badge/LIVE-AnimeXOsource__Owais-8b5cf6?style=for-the-badge)](https://owais-anime-stream.onrender.com/)
 
 </div>
 
@@ -32,16 +32,16 @@ I’m a **vibe coder and prompt crafter**. I make vibe coding apps and websites 
 
 I like anime, AI, media, realtime features, playful interfaces, and the whole process of turning a rough thought into something people can actually use.
 
-## Featured build — Owais Anime Stream
+## Featured build — AnimeXOsource_Owais
 
 <div align="center">
 
-<a href="https://owais-anime-stream.onrender.com/"><img src="https://img.shields.io/badge/▶%20OPEN%20LIVE%20APP-owais--anime--stream.onrender.com-f43f5e?style=for-the-badge" alt="Open Owais Anime Stream" /></a>
-<a href="https://github.com/greenman9909-cmd/owais-anime-stream"><img src="https://img.shields.io/badge/OPEN%20SOURCE-MIT-18181b?style=for-the-badge&logo=github" alt="Open-source Owais Anime Stream repository" /></a>
+<a href="https://owais-anime-stream.onrender.com/"><img src="https://img.shields.io/badge/▶%20OPEN%20LIVE%20APP-AnimeXOsource_Owais-f43f5e?style=for-the-badge" alt="Open AnimeXOsource_Owais" /></a>
+<a href="https://github.com/greenman9909-cmd/owais-anime-stream"><img src="https://img.shields.io/badge/OPEN%20SOURCE-MIT-18181b?style=for-the-badge&logo=github" alt="Open-source AnimeXOsource_Owais repository" /></a>
 
 <br /><br />
 
-**Owais Anime Stream** is my featured vibe-coded build: an artwork-led anime catalog and streaming app with benchmark cards, active-node metadata, HLS playback, watchlists, comments, accounts, and live WebSocket telemetry.
+**AnimeXOsource_Owais** is my featured vibe-coded build: an artwork-led anime catalog and streaming app with benchmark cards, active-node metadata, HLS playback, watchlists, comments, accounts, and live WebSocket telemetry.
 
 `React` · `AI-assisted build` · `HLS` · `JWT` · `WebSockets` · `MIT open source`
 
@@ -141,14 +141,14 @@ Anime streaming and discovery experience with a public live preview.
 </td>
 <td width="50%" valign="top">
 
-### [Owais Anime Stream](https://owais-anime-stream.onrender.com/)
+### [AnimeXOsource_Owais](https://owais-anime-stream.onrender.com/)
 
 <img src="https://img.shields.io/badge/STREAMING-DEPLOYED-8b5cf6?style=flat-square" alt="Streaming deployed" />
 
 Vibe-coded streaming product with accounts, HLS playback, watchlists, comments, and telemetry.
 
-<a href="https://owais-anime-stream.onrender.com/"><img src="https://img.shields.io/badge/▶%20LIVE-Render-f43f5e?style=for-the-badge" alt="Open Owais Anime Stream" /></a>
-<a href="https://github.com/greenman9909-cmd/owais-anime-stream"><img src="https://img.shields.io/badge/SOURCE-GitHub-18181b?style=for-the-badge&logo=github" alt="Owais Anime Stream source" /></a>
+<a href="https://owais-anime-stream.onrender.com/"><img src="https://img.shields.io/badge/▶%20LIVE-Render-f43f5e?style=for-the-badge" alt="Open AnimeXOsource_Owais" /></a>
+<a href="https://github.com/greenman9909-cmd/owais-anime-stream"><img src="https://img.shields.io/badge/SOURCE-GitHub-18181b?style=for-the-badge&logo=github" alt="AnimeXOsource_Owais source" /></a>
 
 </td>
 </tr>
