@@ -232,28 +232,18 @@ Downloader web app with client, server, and deployment setup.
 <a href="https://github.com/dawidolko/Github-Badges-Achievements/blob/main/assets/steps/README.yolo.md"><img src="https://raw.githubusercontent.com/dawidolko/Github-Badges-Achievements/main/assets/badges/Yolo.png" width="130" alt="YOLO achievement goal" /></a>
 </div>
 
-<h2 align="center">✦ GITHUB ACTIVITY · LIVE DATA ✦</h2>
+<h2 align="center">✦ PUBLIC ACTIVITY ✦</h2>
 
-These cards pull from my **real public GitHub activity**: contributions, commits, pull requests, issues, repositories, languages, and contribution history.
+<p align="center"><strong>Follow the work from GitHub itself.</strong><br /><sub>No fake counters, no broken stat cards, and no third-party dashboard pretending to be a source of truth.</sub></p>
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=greenman9909-cmd&show_icons=true&include_all_commits=true&count_private=false&hide_border=true&bg_color=0d1117&title_color=f43f5e&icon_color=f43f5e&text_color=ffffff&rank_icon=github&custom_title=Public%20GitHub%20stats" height="170" alt="Real public GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=greenman9909-cmd&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=f43f5e&text_color=ffffff&custom_title=Languages%20used" height="170" alt="Real language statistics" />
-
-<br />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=greenman9909-cmd&theme=github_dark" width="95%" alt="Real GitHub contribution summary" />
-
-<br /><br />
-
-<img src="https://streak-stats.demolab.com?user=greenman9909-cmd&theme=dark&hide_border=true&background=0D1117&ring=F43F5E&fire=F43F5E&currStreakLabel=FFFFFF&sideLabels=FFFFFF" height="170" alt="Real GitHub contribution streak" />
-
-<br /><br />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=greenman9909-cmd&bg_color=0d1117&color=ffffff&line=f43f5e&point=ffffff&area=true&hide_border=true" width="95%" alt="Real GitHub contribution graph" />
-
-</div>
+<table>
+<tr>
+<td width="25%" align="center"><a href="https://github.com/greenman9909-cmd?tab=repositories"><strong>Repositories</strong></a><br /><sub>Browse the builds</sub></td>
+<td width="25%" align="center"><a href="https://github.com/greenman9909-cmd?tab=activity"><strong>Activity</strong></a><br /><sub>Commits and events</sub></td>
+<td width="25%" align="center"><a href="https://github.com/greenman9909-cmd?tab=projects"><strong>Projects</strong></a><br /><sub>Work in progress</sub></td>
+<td width="25%" align="center"><a href="https://github.com/greenman9909-cmd"><strong>Contribution graph</strong></a><br /><sub>Native GitHub view</sub></td>
+</tr>
+</table>
 
 ## Support the builds
 
