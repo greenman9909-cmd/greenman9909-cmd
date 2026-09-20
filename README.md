@@ -16,6 +16,16 @@
 
 </div>
 
+**Vibe coder & prompt crafter** · I make AI-assisted apps and websites
+
+`18` · `English C1` · studying **DAM FP Superior** — not fully dedicated to it, just learning and building things I like
+
+<div align="center">
+
+[Website](https://yoru.fun/) · [GitHub](https://github.com/greenman9909-cmd) · [Live project](https://owais-anime-stream.onrender.com/)
+
+</div>
+
 ## About me
 
 I’m a **vibe coder and prompt crafter**. I make vibe coding apps and websites by taking an idea, shaping the prompt, building the interface, wiring the product, and shipping the result.
@@ -34,12 +44,12 @@ I’m not trying to be a traditional programmer. I use AI tools, strong prompts,
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Claude-cc785c?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
-<img src="https://img.shields.io/badge/DeepSeek-0ea5e9?style=for-the-badge&logo=deepseek&logoColor=white" alt="DeepSeek" />
-<img src="https://img.shields.io/badge/ChatGPT%20%2F%20OpenAI-10a37f?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT and OpenAI" />
-<img src="https://img.shields.io/badge/Manus-18181b?style=for-the-badge&logoColor=white" alt="Manus" />
-<img src="https://img.shields.io/badge/Cursor-111827?style=for-the-badge&logoColor=white" alt="Cursor" />
-<img src="https://img.shields.io/badge/Antigravity-f43f5e?style=for-the-badge&logo=google&logoColor=white" alt="Antigravity" />
+<a href="https://claude.ai/download"><img src="https://img.shields.io/badge/Claude-cc785c?style=for-the-badge&logo=anthropic&logoColor=white" alt="Download Claude" /></a>
+<a href="https://www.deepseek.com/"><img src="https://img.shields.io/badge/DeepSeek-0ea5e9?style=for-the-badge&logo=deepseek&logoColor=white" alt="Open DeepSeek" /></a>
+<a href="https://chatgpt.com/download/"><img src="https://img.shields.io/badge/ChatGPT%20%2F%20OpenAI-10a37f?style=for-the-badge&logo=openai&logoColor=white" alt="Download ChatGPT" /></a>
+<a href="https://manus.im/"><img src="https://img.shields.io/badge/Manus-18181b?style=for-the-badge&logoColor=white" alt="Open Manus" /></a>
+<a href="https://www.cursor.com/downloads"><img src="https://img.shields.io/badge/Cursor-111827?style=for-the-badge&logoColor=white" alt="Download Cursor" /></a>
+<a href="https://antigravity.google/download/"><img src="https://img.shields.io/badge/Antigravity-f43f5e?style=for-the-badge&logo=google&logoColor=white" alt="Download Antigravity" /></a>
 
 <br /><br />
 
@@ -82,14 +92,15 @@ A deployed manga and manhwa downloader web application with client, server, and 
 
 </div>
 
-## Anime corner
+## Off-screen
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/JohnKun136NVCP/JohnKun136NVCP/main/img/vocaloid/vocaloidchibi.png" height="150" alt="Vocaloid" />
-<img src="https://raw.githubusercontent.com/JohnKun136NVCP/JohnKun136NVCP/main/img/ao-buta/mai_sakurajima.png" height="150" alt="Mai Sakurajima" />
-<img src="https://raw.githubusercontent.com/JohnKun136NVCP/JohnKun136NVCP/main/img/TheEmminenceInShadow/cid.png" height="150" alt="Cid Kagenou" />
-<img src="https://raw.githubusercontent.com/JohnKun136NVCP/JohnKun136NVCP/main/img/vocaloid/hatsune.png" height="150" alt="Hatsune Miku" />
+<img src="https://raw.githubusercontent.com/JohnKun136NVCP/JohnKun136NVCP/main/img/vocaloid/hatsunemikudrop.gif" width="230" alt="Anime visual" />
+
+<br />
+
+Anime, music, visual experiments, and things that make the profile less boring.
 
 </div>
 
