@@ -28,19 +28,21 @@
 
 </div>
 
-## About me
+<h2 align="center">✦ ABOUT ME ✦</h2>
+
+<p align="center"><strong>VIBE CODER · PROMPT CRAFTER · AI-BUILDER</strong></p>
 
 I’m a **vibe coder and prompt crafter**. I make vibe coding apps and websites by taking an idea, shaping the prompt, building the interface, wiring the product, and shipping the result.
 
 I like anime, AI, media, realtime features, playful interfaces, and the whole process of turning a rough thought into something people can actually use.
 
-## Featured builds
+<h2 align="center">✦ FEATURED BUILDS ✦</h2>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### AnimeXOsource_Owais
+### ◈ AnimeXOsource_Owais
 
 Artwork-led anime catalog and streaming interface with live AniList metadata, watchlists, accounts, comments, HLS integration, and realtime telemetry.
 
@@ -51,7 +53,7 @@ Artwork-led anime catalog and streaming interface with live AniList metadata, wa
 </td>
 <td width="50%" valign="top">
 
-### Yoru
+### ◈ Yoru
 
 Anime discovery and streaming experience focused on a polished media-first interface, browse flows, watchlists, account features, and community navigation.
 
@@ -63,7 +65,7 @@ Anime discovery and streaming experience focused on a polished media-first inter
 </tr>
 </table>
 
-## Featured PC setup
+<h2 align="center">✦ PC SETUP · HARDWARE LAB ✦</h2>
 
 <div align="center">
 
@@ -80,32 +82,34 @@ Anime discovery and streaming experience focused on a polished media-first inter
 
 </div>
 
-### Setup specs
+### `SETUP SPECS`
 
 | Category | Hardware |
 |---|---|
-| Case | ASUS ROG Hyperion GR701 |
-| CPU | AMD Ryzen 9 9950X3D |
-| Mainboard | ASUS ROG Hero X870E |
-| GPU | ASUS ROG Astral RTX 5090 OC |
-| SSD | Samsung 9100 Pro 4TB |
-| Fans | Corsair QX120 · 6 units |
-| AIO | ASUS ROG LC Version 3 · 360mm LCD |
-| PSU | ASUS ROG Thor Version 3 · 1200W · OLED screen |
-| Display | ASUS ROG XG27UCS · 4K IPS · 160Hz |
-| Display 2 | ASUS ROG Strix OLED XG27AQDMG Gen 2 |
-| Laptop 1 | [Lenovo Legion Pro 5](https://www.pccomponentes.com/portatil-lenovo-legion-pro-5-16irx10-16-intel-core-i9-14900hx-32gb-1tb-ssd-rtx-5070) |
-| Laptop 2 | OMEN MAX · RTX 5080 |
-| Keyboard | ASUS ROG Azoth Wireless |
-| Mouse | ASUS ROG Gladius III AimPoint Wireless |
-| Mousepad | ASUS ROG Moonstone XXL ACE · black |
-| Headset | ASUS ROG Delta II Wireless |
-| Controller | Xbox Elite Controller 2 |
-| Elgato | Stream Deck Plus |
-| Lighting | Philips Hue Bar |
-| Speakers | Razer Nommo V2 |
+| **Case** | ASUS ROG Hyperion GR701 |
+| **CPU** | AMD Ryzen 9 9950X3D |
+| **Mainboard** | ASUS ROG Hero X870E |
+| **GPU** | ASUS ROG Astral RTX 5090 OC |
+| **SSD** | Samsung 9100 Pro 4TB |
+| **Fans** | Corsair QX120 · 6 units |
+| **AIO** | ASUS ROG LC Version 3 · 360mm LCD |
+| **PSU** | ASUS ROG Thor Version 3 · 1200W · OLED screen |
+| **Display** | ASUS ROG XG27UCS · 4K IPS · 160Hz |
+| **Display 2** | ASUS ROG Strix OLED XG27AQDMG Gen 2 |
+| **Laptop 1** | [Lenovo Legion Pro 5](https://www.pccomponentes.com/portatil-lenovo-legion-pro-5-16irx10-16-intel-core-i9-14900hx-32gb-1tb-ssd-rtx-5070) |
+| **Laptop 2** | OMEN MAX · RTX 5080 |
+| **Keyboard** | ASUS ROG Azoth Wireless |
+| **Mouse** | ASUS ROG Gladius III AimPoint Wireless |
+| **Mousepad** | ASUS ROG Moonstone XXL ACE · black |
+| **Headset** | ASUS ROG Delta II Wireless |
+| **Controller** | Xbox Elite Controller 2 |
+| **Elgato** | Stream Deck Plus |
+| **Lighting** | Philips Hue Bar |
+| **Speakers** | Razer Nommo V2 |
 
-## AI tools I use
+<h2 align="center">✦ AI TOOLKIT ✦</h2>
+
+<p align="center"><strong>THE TOOLS BEHIND MY VIBE-CODED BUILDS</strong></p>
 
 I’m not trying to be a traditional programmer. I use AI tools, strong prompts, and visual iteration to turn ideas into apps and websites.
 
