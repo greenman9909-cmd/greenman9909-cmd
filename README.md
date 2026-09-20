@@ -218,6 +218,10 @@ These cards pull from my **real public GitHub activity**: contributions, commits
 
 </div>
 
+## Support the builds
+
+If you enjoy the projects and want to support more vibe-coded apps, you can [support me on Ko-fi](https://ko-fi.com/yorusayano). It is completely optional.
+
 ## Off-screen
 
 <div align="center">
