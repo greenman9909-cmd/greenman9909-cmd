@@ -129,20 +129,26 @@ Downloader web app with client, server, and deployment setup.
 </tr>
 </table>
 
-## GitHub activity
+## GitHub activity — live data
+
+These cards pull from my **real public GitHub activity**: contributions, commits, pull requests, issues, repositories, languages, and contribution history.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=greenman9909-cmd&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=f43f5e&icon_color=f43f5e&text_color=ffffff&rank_icon=github&custom_title=Build%20telemetry" height="170" alt="GitHub build telemetry" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=greenman9909-cmd&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=f43f5e&text_color=ffffff&custom_title=Languages%20in%20the%20mix" height="170" alt="Top languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=greenman9909-cmd&show_icons=true&include_all_commits=true&count_private=false&hide_border=true&bg_color=0d1117&title_color=f43f5e&icon_color=f43f5e&text_color=ffffff&rank_icon=github&custom_title=Public%20GitHub%20stats" height="170" alt="Real public GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=greenman9909-cmd&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=f43f5e&text_color=ffffff&custom_title=Languages%20used" height="170" alt="Real language statistics" />
 
 <br />
 
-<img src="https://streak-stats.demolab.com?user=greenman9909-cmd&theme=dark&hide_border=true&background=0D1117&ring=F43F5E&fire=F43F5E&currStreakLabel=FFFFFF&sideLabels=FFFFFF" height="170" alt="GitHub contribution streak" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=greenman9909-cmd&theme=github_dark" width="95%" alt="Real GitHub contribution summary" />
 
 <br /><br />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=greenman9909-cmd&bg_color=0d1117&color=ffffff&line=f43f5e&point=ffffff&area=true&hide_border=true" width="95%" alt="GitHub activity graph" />
+<img src="https://streak-stats.demolab.com?user=greenman9909-cmd&theme=dark&hide_border=true&background=0D1117&ring=F43F5E&fire=F43F5E&currStreakLabel=FFFFFF&sideLabels=FFFFFF" height="170" alt="Real GitHub contribution streak" />
+
+<br /><br />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=greenman9909-cmd&bg_color=0d1117&color=ffffff&line=f43f5e&point=ffffff&area=true&hide_border=true" width="95%" alt="Real GitHub contribution graph" />
 
 </div>
 
