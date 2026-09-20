@@ -24,6 +24,8 @@ A dark, studio-inspired anime streaming platform with HLS playback, JWT accounts
 
 [View the repository →](https://github.com/greenman9909-cmd/owais-anime-stream)
 
+[Live site](https://owais-anime-stream.onrender.com/) · [Preview](https://5173-ixes4lkgoy2jf0cbs1he5-40319576.us1.manus.computer/)
+
 ## Current focus
 
 - Crafting interfaces that feel intentional, calm, and production-ready.
