@@ -28,13 +28,24 @@ I like anime, AI, media, realtime features, playful interfaces, and the whole pr
 
 </div>
 
-## Main tools
+## AI tools I use
 
-[![My tools](https://skillicons.dev/icons?i=react,js,nodejs,express,vite,html,css,sqlite,docker,git,github,cursor&perline=6)](https://skillicons.dev)
+I’m not trying to be a traditional programmer. I use AI tools, strong prompts, and visual iteration to turn ideas into apps and websites.
 
-<img src="https://img.shields.io/badge/Claude-cc785c?style=flat-square&logo=anthropic&logoColor=white" alt="Claude" /> <img src="https://img.shields.io/badge/DeepSeek-0ea5e9?style=flat-square&logo=deepseek&logoColor=white" alt="DeepSeek" /> <img src="https://img.shields.io/badge/LLMs-f43f5e?style=flat-square&logo=openai&logoColor=white" alt="LLMs" /> <img src="https://img.shields.io/badge/Antigravity-111827?style=flat-square&logo=google&logoColor=white" alt="Antigravity" />
+<div align="center">
 
-`Cursor` · `Docker` · `Claude` · `DeepSeek` · `LLMs` · `prompt engineering` · `API wiring` · `WebSockets` · `HLS` · `deploy pipelines`
+<img src="https://img.shields.io/badge/Claude-cc785c?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+<img src="https://img.shields.io/badge/DeepSeek-0ea5e9?style=for-the-badge&logo=deepseek&logoColor=white" alt="DeepSeek" />
+<img src="https://img.shields.io/badge/ChatGPT%20%2F%20OpenAI-10a37f?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT and OpenAI" />
+<img src="https://img.shields.io/badge/Manus-18181b?style=for-the-badge&logoColor=white" alt="Manus" />
+<img src="https://img.shields.io/badge/Cursor-111827?style=for-the-badge&logoColor=white" alt="Cursor" />
+<img src="https://img.shields.io/badge/Antigravity-f43f5e?style=for-the-badge&logo=google&logoColor=white" alt="Antigravity" />
+
+<br /><br />
+
+`prompt crafting` · `AI brainstorming` · `vibe coding` · `visual iteration` · `AI-assisted building` · `shipping ideas`
+
+</div>
 
 ## Featured projects
 
