@@ -82,11 +82,23 @@ A vibe-coded anime streaming website with search, HLS playback, accounts, watchl
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,js,nodejs,express,vite,html,css,sqlite,docker,git,github,vercel&perline=6" alt="Technology icons" />
+<img src="https://skillicons.dev/icons?i=react,js,nodejs,express,vite,html,css,sqlite,docker,git,github,cursor&perline=6" alt="Technology icons" />
 
 <br /><br />
 
-`React` · `JavaScript` · `Node.js` · `Express` · `Vite` · `SQLite` · `WebSockets` · `Docker` · `GitHub` · `AI prompts`
+<img src="https://img.shields.io/badge/Antigravity-111827?style=for-the-badge&logo=google&logoColor=white" alt="Antigravity" />
+<img src="https://img.shields.io/badge/Claude-cc785c?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+<img src="https://img.shields.io/badge/DeepSeek-0ea5e9?style=for-the-badge&logo=deepseek&logoColor=white" alt="DeepSeek" />
+<img src="https://img.shields.io/badge/LLMs-f43f5e?style=for-the-badge&logo=openai&logoColor=white" alt="Large language models" />
+<img src="https://img.shields.io/badge/Cursor-18181b?style=for-the-badge&logoColor=white" alt="Cursor" />
+
+<br /><br />
+
+`React` · `JavaScript` · `Node.js` · `Express` · `Vite` · `SQLite` · `Docker` · `GitHub` · `Cursor` · `Claude` · `DeepSeek` · `LLMs` · `prompt engineering`
+
+<br />
+
+`some nerd shit for vibe coders: terminal workflows, API wiring, WebSockets, HLS, deploy pipelines, and shipping before the prompt gets cold`
 
 </div>
 
