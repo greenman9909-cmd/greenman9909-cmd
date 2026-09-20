@@ -28,16 +28,6 @@
 
 </div>
 
-<div align="center">
-
-<a href="https://raw.githubusercontent.com/greenman9909-cmd/PC-SETUP-Y-SPECS-/main/9840c13e-81b3-41ac-90ee-012b500a423e.jpg"><img src="https://raw.githubusercontent.com/greenman9909-cmd/PC-SETUP-Y-SPECS-/main/9840c13e-81b3-41ac-90ee-012b500a423e.jpg" width="620" alt="OMEN MAX laptop setup for vibe coding" /></a>
-
-<br />
-
-**Vibe coding setup · PC and laptop enthusiast · I can repair gaming laptops**
-
-</div>
-
 ## About me
 
 I’m a **vibe coder and prompt crafter**. I make vibe coding apps and websites by taking an idea, shaping the prompt, building the interface, wiring the product, and shipping the result.
