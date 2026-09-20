@@ -8,7 +8,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-greenman9909--cmd-18181b?style=for-the-badge&logo=github)](https://github.com/greenman9909-cmd)
 [![Yoru live preview](https://img.shields.io/badge/LIVE%20PREVIEW-yoru.fun-f43f5e?style=for-the-badge)](https://yoru.fun/)
-[![AnimeXOsource_Owais](https://img.shields.io/badge/LIVE-AnimeXOsource__Owais-8b5cf6?style=for-the-badge)](https://owais-anime-stream.onrender.com/)
+[![AnimeXOsource_Owais](https://img.shields.io/badge/LIVE-AnimeXOsource__Owais-8b5cf6?style=for-the-badge)](https://owais-anime-stream-open.onrender.com/)
 
 </div>
 
@@ -24,7 +24,7 @@
 
 <div align="center">
 
-[Website](https://yoru.fun/) · [GitHub](https://github.com/greenman9909-cmd) · [Live project](https://owais-anime-stream.onrender.com/)
+[Website](https://yoru.fun/) · [GitHub](https://github.com/greenman9909-cmd) · [Live project](https://owais-anime-stream-open.onrender.com/)
 
 </div>
 
@@ -46,9 +46,9 @@ I like anime, AI, media, realtime features, playful interfaces, and the whole pr
 
 Artwork-led anime catalog and streaming interface with live AniList metadata, watchlists, accounts, comments, HLS integration, and realtime telemetry.
 
-`AI-assisted` `Anime` `HLS` `WebSockets`
+`Open source` `FastAPI` `HLS` `Docker`
 
-[Live app](https://owais-anime-stream.onrender.com/) · [Source](https://github.com/greenman9909-cmd/owais-anime-stream)
+[Live app](https://owais-anime-stream-open.onrender.com/) · [Source](https://github.com/greenman9909-cmd/owais-anime-stream) · [Docs](https://github.com/greenman9909-cmd/owais-anime-stream#readme)
 
 </td>
 <td width="50%" valign="top">
@@ -182,14 +182,23 @@ Anime streaming and discovery experience with a public live preview.
 </td>
 <td width="50%" valign="top">
 
-### [AnimeXOsource_Owais](https://owais-anime-stream.onrender.com/)
+### [AnimeXOsource_Owais](https://owais-anime-stream-open.onrender.com/)
 
 <img src="https://img.shields.io/badge/STREAMING-DEPLOYED-8b5cf6?style=flat-square" alt="Streaming deployed" />
 
-Vibe-coded streaming product with accounts, HLS playback, watchlists, comments, and telemetry.
+Open-source anime video embed platform with a live Studio Console, FastAPI API, Docker deployment, browser embed fallback, HLS player, and cluster telemetry.
 
-<a href="https://owais-anime-stream.onrender.com/"><img src="https://img.shields.io/badge/▶%20LIVE-Render-f43f5e?style=for-the-badge" alt="Open AnimeXOsource_Owais" /></a>
+<a href="https://owais-anime-stream-open.onrender.com/"><img src="https://raw.githubusercontent.com/greenman9909-cmd/owais-anime-stream/main/docs/assets/studio-preview.png" width="100%" alt="AnimeXOsource_Owais live Studio Console preview" /></a>
+
+<a href="https://owais-anime-stream-open.onrender.com/"><img src="https://img.shields.io/badge/▶%20LIVE%20TEST-Render-f43f5e?style=for-the-badge" alt="Open AnimeXOsource_Owais live test" /></a>
+<a href="https://owais-anime-stream-open.onrender.com/docs"><img src="https://img.shields.io/badge/API-SWAGGER-111827?style=for-the-badge" alt="Open AnimeXOsource_Owais API docs" /></a>
+<a href="https://owais-anime-stream-open.onrender.com/embed/ani/21/1?track=sub"><img src="https://img.shields.io/badge/EMBED-ONE%20PIECE-8b5cf6?style=for-the-badge" alt="Test the AnimeXOsource_Owais embed" /></a>
 <a href="https://github.com/greenman9909-cmd/owais-anime-stream"><img src="https://img.shields.io/badge/SOURCE-GitHub-18181b?style=for-the-badge&logo=github" alt="AnimeXOsource_Owais source" /></a>
+
+<br />
+
+<a href="https://github.com/greenman9909-cmd/owais-anime-stream/blob/main/docs/EMBEDDING.md"><img src="https://img.shields.io/badge/READ-EMBED%20DOCS-00bfa6?style=flat-square" alt="Read embed documentation" /></a>
+<a href="https://github.com/greenman9909-cmd/owais-anime-stream/blob/main/docs/DEPLOYMENT.md"><img src="https://img.shields.io/badge/READ-RENDER%20DEPLOYMENT%20DOCS-00bfa6?style=flat-square" alt="Read Render deployment documentation" /></a>
 
 </td>
 </tr>
