@@ -38,6 +38,12 @@ I like anime, AI, media, realtime features, playful interfaces, and the whole pr
 
 <h2 align="center">LATEST BUILD</h2>
 
+<div align="center">
+
+<a href="https://github.com/greenman9909-cmd/spa-ripper"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&duration=2200&pause=900&color=00F5D4&center=true&vCenter=true&width=850&height=60&repeat=true&cursor=true&cursorStyle=bar&lines=LATEST+BUILD%3A+SPA-RIPPER;Recursive+SPA+frontend+cloner;Discover+chunks.+Extract+assets.+Ship+locally." alt="Animated latest build spotlight" /></a>
+
+</div>
+
 <table>
 <tr>
 <td width="100%" valign="top">
@@ -59,6 +65,12 @@ Lightweight toolkit for cloning modern SPA frontends and serving them locally wi
 </table>
 
 <h2 align="center">FEATURED BUILDS</h2>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=24&duration=2400&pause=1000&color=FF4D8D&center=true&vCenter=true&width=900&height=55&repeat=true&cursor=true&cursorStyle=bar&lines=BUILDS+IN+MOTION;Anime+%C2%B7+AI+%C2%B7+Realtime+web+experiments;Prompt+%E2%86%92+prototype+%E2%86%92+polish+%E2%86%92+ship" alt="Animated featured builds banner" />
+
+</div>
 
 <table>
 <tr>
